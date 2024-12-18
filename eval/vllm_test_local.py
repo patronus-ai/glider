@@ -24,7 +24,7 @@ def run_test(d, json_filepath="results.jsonl"):
         f.write('\n'.join(map(json.dumps, results)))
 
 def run_tests(output_dir):
-    collection = get_collection("PatronusAI/slm-evaluator-suite-673ceadb04c69353dd2a13fe")
+    collection = get_collection("PatronusAI/glider-eval-suite-673ceadb04c69353dd2a13fe")
     for dataset in collection.items:
         data = load_dataset(dataset.item_id)
         for i in data:
