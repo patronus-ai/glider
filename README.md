@@ -1,9 +1,9 @@
 # Patronus GLIDER
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/cs.LG-arXiv%3A2310.03957-b31b1b)](https://arxiv.org/abs/2412.14140)
-[![HuggingFace Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]([https://huggingface.co/PatronusAI/glider](https://huggingface.co/spaces/PatronusAI/GLIDER))
-
+[![arXiv](https://img.shields.io/badge/cs.LG-arXiv%3A2412.14140-b31b1b)](https://arxiv.org/abs/2412.14140)
+[![HuggingFace Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/PatronusAI/GLIDER)
+	[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/PatronusAI/glider)
 </div>
 
 This repository contains the evaluation code and test sets for Patronus' GLIDER model. 
